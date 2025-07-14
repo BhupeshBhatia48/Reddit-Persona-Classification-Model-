@@ -1,0 +1,63 @@
+---- BASIC NLP-BASED TRAITS ----
+
+Interests: Technology, Gaming, Sports, Entertainment, Finance, Fitness, Food, Travel, Education, Relationships
+Evidence: Technology: Sorry to hear that man, in the future you may want to have multiple granaries, one close to your berries/deer/fish and one for your veggies/apples/honey.
+Also I just store ale at the tavern or keep it in the brewery for this reason
+Evidence: Gaming: I do too but I rarely finish a game haha. Too little late game content
+Evidence: Sports: \- the hype has definitely faded, you can see that with the price as well as the number of people discussing it on X, or even here  
+\- haven't seen much innovation in the space at all, the momentum seems to have shifted to solana memecoins, and dissipated after that  
+\- again, people no longer seem interested. I found linksDAO to be an interesting concept of fractionally owning a golf course, and they're still active but not much hype around them anymore either. Most major brand NFT collaborations have died down as well  
+\- the NFT craze has not settled into something sustainable, it's dead. Can it come back? Possibly, it has happened before, when cryptopunks and cryptokitties were first hot in 2017-ish, then died, then came back during 2020-2022.  
+\- will there be a big boom? I personally don't think it would in the way we think of NFTs as collectables. A major thesis was around digital scarcity, and that seemed possible during covid, but post covid people went back to f2f interactions. Digital scarcity could become a hot topic again if we see a broader adoption of VR or even XR, but that seems a bit down the line. I think fractional ownership of assets could be interesting, but they'd just be fungible tokens, not NFT
+
+I see so many one-off posts on this community with only a couple responses. Can't believe there's 2.7M members here. That alone should tell you that NFTs are no longer something people are interested in. I'd love to be proven wrong, since I feel that there was alot of potential, but so far it seems like the community is dead
+Evidence: Entertainment: I wore a toga. she showed up in regular clothes
+Evidence: Finance: That proximity is ridiculous, deep mining, two fishing huts, vegetable, orchards, and trade iron for malt.
+imo trading raw materials is easier than trading crafted goods in the current build. High quantity stuff is easy to stock, and you could have multiple trading posts up without any major issues.
+The exact opposite of this is plate armor. It takes forever to build, requires three points, and needs eight iron slabs to make it. It’s cheaper to just export the ore, and since it’s a low quantity trade, it’s hard to stick multiple trade posts with it
+Evidence: Fitness: Having your health insurance claim denied. 
+You think you’re covered because you’ve paid diligently every month, but then an accident happens, and you’re thrown into an endless cycle of calls, being passed around from one representative to another, trying to make sense of it all.
+Evidence: Food: Incredible stuff! How did you maintain character consistency? Did you generate a consistent character image and then use the image-to-video feature?
+Evidence: Travel: \- the hype has definitely faded, you can see that with the price as well as the number of people discussing it on X, or even here  
+\- haven't seen much innovation in the space at all, the momentum seems to have shifted to solana memecoins, and dissipated after that  
+\- again, people no longer seem interested. I found linksDAO to be an interesting concept of fractionally owning a golf course, and they're still active but not much hype around them anymore either. Most major brand NFT collaborations have died down as well  
+\- the NFT craze has not settled into something sustainable, it's dead. Can it come back? Possibly, it has happened before, when cryptopunks and cryptokitties were first hot in 2017-ish, then died, then came back during 2020-2022.  
+\- will there be a big boom? I personally don't think it would in the way we think of NFTs as collectables. A major thesis was around digital scarcity, and that seemed possible during covid, but post covid people went back to f2f interactions. Digital scarcity could become a hot topic again if we see a broader adoption of VR or even XR, but that seems a bit down the line. I think fractional ownership of assets could be interesting, but they'd just be fungible tokens, not NFT
+
+I see so many one-off posts on this community with only a couple responses. Can't believe there's 2.7M members here. That alone should tell you that NFTs are no longer something people are interested in. I'd love to be proven wrong, since I feel that there was alot of potential, but so far it seems like the community is dead
+Evidence: Education: Little do they know many “top American colleges” have a ton of international students on an F1 visa, which leads to STEM OPT and (hopefully) to an H1B visa.
+Evidence: Relationships: So in general each family will eat each type of food equally. Which means those with low supply are more likely to be consumed first.
+
+Eggs I believe each plot only produces one per month, so it's helpful, but won't be sufficient to maintain food diversity
+
+Occupation: Dating apps have been normalized but I still would prefer irl encounters compared to apps. Apps also make you see dates as trivial, since there’s always another girl one tap away.
+I usually take the time to leave quality comments, and around 1/3 of them materialize into matches. Some will just like without responding, but I feel like more often than not they do respond.
+It might also be the type of people I’m attracted to though. I’ve noticed those in their early 20s aren’t really good at conversations, or get more matches so they don’t care as much.
+
+Is there a certain demographic you tend to match with? (Race, age, career)
+Evidence: Dating apps have been normalized but I still would prefer irl encounters compared to apps. Apps also make you see dates as trivial, since there’s always another girl one tap away.
+I usually take the time to leave quality comments, and around 1/3 of them materialize into matches. Some will just like without responding, but I feel like more often than not they do respond.
+It might also be the type of people I’m attracted to though. I’ve noticed those in their early 20s aren’t really good at conversations, or get more matches so they don’t care as much.
+
+Is there a certain demographic you tend to match with? (Race, age, career)
+
+Personality: Very Positive
+Evidence: Incredible stuff! How did you maintain character consistency? Did you generate a consistent character image and then use the image-to-video feature?
+
+Writing Style: Casual / Humorous
+Evidence: I do too but I rarely finish a game haha. Too little late game content
+
+Tone: Mostly Positive
+
+
+---- LLM-BASED ANALYSIS ----
+
+LLM generation failed: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
